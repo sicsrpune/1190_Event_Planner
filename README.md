@@ -1,6 +1,7 @@
 Project Name: Event Planner App
 
 Project description in detail:
+
 The Wedding Planner App will offer:
 
 Planning Tools-
@@ -16,4 +17,5 @@ Ideas-
 Add new ideas into forums.
 
 Student Name: Karuna Kak and Aayush Sinha
+
 Student PRN : 12030121030 and 12030121011
