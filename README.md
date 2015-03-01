@@ -1,20 +1,10 @@
-Project Name: Event Planner App
+Project Name: Yamba App
 
 Project description in detail:
-
-The Wedding Planner App will offer:
-
-Planning Tools-
-Adding Checklist, Budget, Guest List, and more!
-
-Photo Galleries-
-Uploading pictures into the album.
-
-Calender-
-Add important dates related to payment and occasions.
+Yamba: Yet Another Micro Blogging App is an educational app demonstrating how to use various features of Android.
 
 Ideas-
-Add new ideas into forums.
+Blogging App connected with Twitter.
 
 Student Name: Karuna Kak and Aayush Sinha
 
