@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\Users\Acer\Desktop\MT_Project_Yamba_12030121030_12030121011\.metadata\.plugins\org.eclipse.jdt.core
+2751366761.index
+366728540.index
